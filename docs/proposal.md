@@ -27,3 +27,4 @@ Items of Interest
 
 Proposed Layout
 ---------------
+![proposal image](/Users/melissapemberton/Desktop/proposalimg.jpg)
