@@ -1,0 +1,37 @@
+html {
+  font-size: 16px;
+}
+
+div {
+  background-color: #DAF7A6 ;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+header {
+  margin-bottom: 1rem;
+}
+
+main {
+  background-color: lightgoldenrodyellow;
+  padding: 1rem;
+  margin: 0 auto;
+  max-width: 30rem;
+}
+
+section {
+  margin: 1rem 0 0;
+  line-height: 1.5rem;
+  white-space: pre-line;
+}
+
+.dark-mode div {
+  background-color: black;
+}
+
+.dark-mode main {
+  background-color: red;
+  color: white;
+}
