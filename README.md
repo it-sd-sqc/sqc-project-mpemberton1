@@ -10,4 +10,4 @@ A one-sentence description of your project.
 
 https://bloody-sunday.onrender.com
 
-Hello from NATHAN!
+NATHAN can handle rejection
